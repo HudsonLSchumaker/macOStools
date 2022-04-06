@@ -16,12 +16,13 @@ jobs:
     
     - name: compile
       run: |
-        cd TCP 
-        gcc -o tcp main.c
+        cd TCP
+        mkdir build
+        gcc -o build/tcp main.c
         cd ..
     
     - name: compress
-      run: tar -cvf ./TCP/artifacts.tar ./TCP
+      run: tar -cvf ./TCP/artifacts.tar ./TCP/build
       
     - name: see files
       run: ls -al
