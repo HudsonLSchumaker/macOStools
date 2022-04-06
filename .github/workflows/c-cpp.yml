@@ -22,7 +22,7 @@ jobs:
         cd ..
     
     - name: compress
-      run: tar -cvf ./TCP/artifacts.tar ./TCP/build
+      run: tar -cvf /TCP/artifacts.tar /TCP/build
       
     - name: see files
       run: ls -al
