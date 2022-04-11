@@ -2,6 +2,7 @@
 // CPU temperature MacOS
 // Hudson Schumaker
 //
+// does not work on apple silicon macs
 
 #include <stdio.h>
 #include <stdlib.h>
