@@ -2,6 +2,7 @@
 // FAN speed MacOS
 // Hudson Schumaker
 //
+// does not work on apple silicon macs yet.
 
 #include <stdio.h>
 #include <stdlib.h>
