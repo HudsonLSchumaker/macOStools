@@ -1,4 +1,4 @@
-// 
+//
 // FAN speed MacOS
 // Hudson Schumaker
 //
