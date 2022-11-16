@@ -1,7 +1,6 @@
 // 
 // TCP connections MacOS
 // Hudson Schumaker
-//
 // works on Monterey
 
 #include <stdio.h>
