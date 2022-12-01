@@ -2,7 +2,7 @@
 // GPU temperature MacOS
 // Hudson Schumaker
 //
-// does not work on apple silicon macs.
+// does not work on apple silicon macs yet.
 //
 
 #include <stdio.h>
