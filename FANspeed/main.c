@@ -1,5 +1,5 @@
 //
-// FAN speed MacOS
+// FAN speed MacOS 
 // Hudson Schumaker
 //
 // does not work on apple silicon macs.
