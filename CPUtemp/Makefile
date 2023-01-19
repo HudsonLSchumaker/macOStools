@@ -9,4 +9,4 @@ run:
 	./cputemp
 
 clear:
-	rm cputemp 
+	rm cputemp
