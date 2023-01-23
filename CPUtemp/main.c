@@ -1,5 +1,5 @@
 //
-// CPU temperature MacOS 
+// CPU temperature MacOS
 // Hudson Schumaker
 //
 // does not work on apple silicon macs.
