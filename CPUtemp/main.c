@@ -1,4 +1,4 @@
-//
+// 
 // CPU temperature MacOS
 // Hudson Schumaker
 //
